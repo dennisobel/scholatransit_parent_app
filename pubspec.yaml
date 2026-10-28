@@ -2,7 +2,7 @@ name: go_drop_parents
 description: "Go Drop Parents - A mobile application for parents to track their child's school transportation, view attendance history, and receive real-time updates."
 publish_to: 'none'
 
-version: 1.0.0+1
+version: 1.0.1+2
 
 environment:
   sdk: ^3.8.1
